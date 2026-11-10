@@ -1,0 +1,3 @@
+Vendor Service Agreement - CloudSecure Ltd.
+SLA: 99.95% uptime availability.
+Confidential: Do not distribute beyond core procurement council.

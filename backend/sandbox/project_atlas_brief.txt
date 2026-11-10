@@ -1,0 +1,4 @@
+Project Atlas Executive Brief:
+Objective: Cloud infrastructure migration across APAC regions.
+Status: Phase 2 active; milestone delivery planned for next month.
+Lead: Sarah Chen, Principal Architect.
